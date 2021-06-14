@@ -1,0 +1,12 @@
+D:\Project C#\qRGenerate\qRGenerate\bin\Debug\qRGenerate.exe.config
+D:\Project C#\qRGenerate\qRGenerate\bin\Debug\qRGenerate.exe
+D:\Project C#\qRGenerate\qRGenerate\bin\Debug\qRGenerate.pdb
+D:\Project C#\qRGenerate\qRGenerate\bin\Debug\zxing.dll
+D:\Project C#\qRGenerate\qRGenerate\bin\Debug\zxing.presentation.dll
+D:\Project C#\qRGenerate\qRGenerate\bin\Debug\zxing.xml
+D:\Project C#\qRGenerate\qRGenerate\bin\Debug\zxing.presentation.xml
+D:\Project C#\qRGenerate\qRGenerate\obj\Debug\qRGenerate.csprojAssemblyReference.cache
+D:\Project C#\qRGenerate\qRGenerate\obj\Debug\qRGenerate.csproj.CoreCompileInputs.cache
+D:\Project C#\qRGenerate\qRGenerate\obj\Debug\qRGenerate.csproj.CopyComplete
+D:\Project C#\qRGenerate\qRGenerate\obj\Debug\qRGenerate.exe
+D:\Project C#\qRGenerate\qRGenerate\obj\Debug\qRGenerate.pdb
